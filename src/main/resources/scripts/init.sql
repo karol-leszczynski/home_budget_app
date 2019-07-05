@@ -1,0 +1,1 @@
+CREATE DATABASE home_budget TEMPLATE template0 LC_COLLATE 'pl_PL.UTF-8' LC_CTYPE 'pl_PL.UTF-8';
